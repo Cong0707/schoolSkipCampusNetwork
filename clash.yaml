@@ -1,0 +1,8 @@
+# Profile Template for Clash Verge
+
+proxies:
+  - { name: VLESS-SCHOOL, type: vless, server: 10.26.218.239 , port: 23456, uuid: 5720918b-c5b6-4581-8865-030d4daa20df, network: tcp, tls: false, udp: true }
+
+proxy-groups: []
+
+rules: []
